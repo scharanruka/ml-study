@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Large Datasets
-.csv
+*.csv
