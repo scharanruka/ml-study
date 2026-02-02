@@ -9,5 +9,6 @@ dependencies = [
     "jupyterlab>=4.5.3",
     "numpy==2.3.0",
     "pandas-profiling>=3.6.6",
+    "plotly>=6.5.2",
     "seaborn>=0.13.2",
 ]
