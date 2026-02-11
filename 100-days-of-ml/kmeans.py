@@ -48,3 +48,6 @@ class KMeans:
             new_centroids.append(X[cluster_group == t].mean(axis=0))
 
         return np.array(new_centroids)
+
+    def estimate_n() -> np.array:
+        return []
