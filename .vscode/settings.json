@@ -1,0 +1,14 @@
+{
+    "python.analysis.indexing": true,
+    "python.analysis.packageIndexDepths": [
+        {
+            "name": "tensorflow",
+            "depth": 10
+        },
+        {
+            "name": "keras",
+            "depth": 10
+        }
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
