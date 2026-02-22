@@ -12,3 +12,6 @@ wheels/
 # Large Datasets
 *.csv
 *.tgz
+
+*.jpg
+*.zip
