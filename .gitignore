@@ -15,3 +15,5 @@ wheels/
 
 *.jpg
 *.zip
+hands-on-ml-pytorch/imdb_dataset/*
+*.txt
